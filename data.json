@@ -1,0 +1,50 @@
+{
+  "nama_website": "Agen Telur Jombang",
+  "nama_singkat": "Agen Telur",
+  "kota": "JOMBANG",
+  "title": "Agen Telur Jombang | Telur Siap Antar Area Jombang",
+  "meta_description": "Agen Telur Jombang melayani pembelian telur eceran dan grosir untuk rumah tangga, warung, toko, katering, dan UMKM kuliner. Bisa pesan antar area Jombang.",
+  "kontak": {
+    "wa": "6285697875565",
+    "wa_display": "+62 856-9787-5565",
+    "email": "agen@telurjombang.com",
+    "instagram": "https://instagram.com/agentelurjombang",
+    "facebook": "https://facebook.com/agentelurjombang",
+    "alamat": "Jombang, Jawa Timur",
+    "jam_layanan": "Setiap hari selama stok tersedia."
+  },
+  "hero": {
+    "badge": "MELAYANI AREA JOMBANG",
+    "headline": "Telur Siap Antar untuk Kebutuhan Rumah, Warung, Toko, dan Usaha Kuliner",
+    "highlight": "di Jombang",
+    "description": "Agen Telur Jombang melayani pembelian telur eceran dan grosir untuk area Jombang, Jawa Timur. Cocok untuk kebutuhan rumah tangga, toko kelontong, warung makan, katering, dan UMKM kuliner.",
+    "sub_description": "Cukup pesan lewat WhatsApp, sampaikan jumlah kebutuhan, lalu kami bantu siapkan pesanan Anda."
+  },
+  "produk_lainnya": {
+    "deskripsi": "Selain telur ayam, kami juga melayani kebutuhan dapur lainnya untuk rumah tangga, warung, dan usaha kuliner di area Jombang."
+  },
+  "deskripsi_footer": "Melayani pembelian telur eceran dan grosir untuk area Jombang, Jawa Timur.",
+  "copyright": "© 2026 Agen Telur Jombang. Semua hak dilindungi.",
+  "list_produk_lainnya": [
+    {
+      "nama": "Telur Bebek",
+      "gambar": "./assets/telur-bebek.jpg",
+      "alt": "Telur bebek"
+    },
+    {
+      "nama": "Beras",
+      "gambar": "./assets/beras.jpg",
+      "alt": "Beras"
+    },
+    {
+      "nama": "Minyak Goreng",
+      "gambar": "./assets/minyak-goreng.jpg",
+      "alt": "Minyak goreng"
+    },
+    {
+      "nama": "Bumbu Dapur Sudah Digiling",
+      "gambar": "./assets/bumbu-dapur-giling.jpg",
+      "alt": "Bumbu dapur sudah digiling"
+    }
+  ]
+}
