@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.premium-texture {
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(185, 135, 44, 0.11), transparent 26%),
+    radial-gradient(circle at 80% 10%, rgba(15, 59, 34, 0.08), transparent 28%),
+    linear-gradient(135deg, rgba(255,255,255,0.74), rgba(239,229,210,0.65));
+}
+
+.hero-arc {
+  clip-path: ellipse(88% 76% at 100% 50%);
+}
+
+.delivery-fade {
+  background: linear-gradient(90deg, rgba(15,59,34,0.97) 0%, rgba(15,59,34,0.88) 38%, rgba(15,59,34,0.45) 58%, rgba(15,59,34,0.08) 100%);
+}
